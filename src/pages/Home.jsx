@@ -78,7 +78,7 @@ const Home = () => {
           <Carousel.Item>
             <img
               className="d-block w-18 m-auto"
-              src="https://drive.google.com/uc?export=view&id=1ep9_0rwVlXWL-MHVAXsHLF0HZIg53c3r"
+              src="https://resources.fruvi.co/resources/photos/Sf33URMBKNRLrURMx9JL23J4aVPXtZIOZMnXGDMlx8XlR3MbeG.jpg"
               alt="Imagen coco"
             />
             
@@ -86,7 +86,7 @@ const Home = () => {
           <Carousel.Item>
             <img
               className="d-block w-18 m-auto"
-              src="https://drive.google.com/uc?export=view&id=1oAm_ndaKf1HrUSK4d3XGCNPNkUW3xFCw"
+              src="https://resources.fruvi.co/resources/photos/qPtxYNzt44TmnkQKTeFxbEaics9aJB2TkBWJVVEKH7vGegWiu4.jpg"
               alt="Imagen arveja"
             />
           
@@ -94,7 +94,7 @@ const Home = () => {
           <Carousel.Item>
             <img
               className="d-block w-18 m-auto"
-              src="https://drive.google.com/uc?export=view&id=1S-kdFv0htzPtS3uKswhpiqIdrn5z6wbH"
+              src="https://resources.fruvi.co/resources/photos/muyHvkytC4hbkf6TzMNXMhMn74Dl3ij6Y53OmUZtls9B7wO7H2.jpg"
               alt="Imagen Coliflor"
             />
             
@@ -103,7 +103,7 @@ const Home = () => {
           <Carousel.Item>
             <img
               className="d-block w-18 m-auto"
-              src="https://drive.google.com/uc?export=view&id=1tBDP-8DLhqJEgp9XVlulssazSE-ITJ9V"
+              src="https://resources.fruvi.co/resources/photos/2rUGN6pK8GLQnZ7KQAM404UPoFUEGrS3jGvuKtZcGWTreS6aaO.jpg"
               alt="Imagen maracuya"
             />
             
@@ -112,7 +112,7 @@ const Home = () => {
           <Carousel.Item>
             <img
               className="d-block w-18 m-auto"
-              src="https://drive.google.com/uc?export=view&id=1HbgW1kPHdle3LEktJsS5uATrQQcXJwc1"
+              src="https://resources.fruvi.co/resources/photos/dD8DlpGzZf6nipXZqahkZ6zuWRz6mUa36izfYIHxlhs4vRI3eQ.jpg"
               alt="Imagen papaya"
             />
             
